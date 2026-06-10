@@ -203,4 +203,4 @@ function submittedGroupAnagrams(strs) {
     return finalResult
 }
 
-console.log(myGroupAnagrams(["eat", "tea", "tan", "at", "ate", "nat", "bat"]))
+// console.log(myGroupAnagrams(["eat", "tea", "tan", "at", "ate", "nat", "bat"]))
